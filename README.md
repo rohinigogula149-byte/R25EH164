@@ -1,1 +1,2 @@
 # R25EH164
+Hello, I am a B.Tech Computer Science student specializing in Artificial Intelligence and Data Science, interested in programming, technology, and building practical projects. I am currently developing my skills in Python, C programming, web technologies, and software development while working on academic and personal projects. I am passionate about learning new technologies and creating solutions that can be useful in real-world applications.
